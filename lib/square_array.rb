@@ -5,5 +5,4 @@ def square_array(array)
     i += 1
   end
   array
-  
 end
